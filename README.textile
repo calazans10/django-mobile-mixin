@@ -4,9 +4,9 @@ h2. USAGE
 
 h3. MIXIN
 
-	In your view.py add:
-	<pre>
-		from .mobile_mixin import MobileTemplateMixin
-		class YourView(MobileTemplateMixin):
-			template_name = "app/template.html"
-	</pre>
+In your view.py add:
+<pre>
+from .mobile_mixin import MobileTemplateMixin
+class YourView(MobileTemplateMixin):
+	template_name = "app/template.html"
+</pre>
