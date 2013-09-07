@@ -6,8 +6,8 @@
 
 In your settings.py add:
 
-    MOBILE_TEMPLATE_DIRS = ( PROJECT_DIR.child('templates', 'mobile'), )
-    DESKTOP_TEMPLATE_DIRS = ( PROJECT_DIR.child('templates', 'desktop'), )
+    MOBILE_TEMPLATE_DIRS = (PROJECT_DIR.child('templates', 'mobile'),)
+    DESKTOP_TEMPLATE_DIRS = (PROJECT_DIR.child('templates', 'desktop'),)
 
 ### MIXIN
 
