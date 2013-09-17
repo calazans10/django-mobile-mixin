@@ -3,6 +3,7 @@
 This project is inspired on these posts about Django working with mobile:
 
 [Django Mobile Browser Detection Middleware](http://sullerton.com/2011/03/django-mobile-browser-detection-middleware)
+
 [Mobile Template Mixin for Django Class Based Views](http://oluwaseunladeinde.wordpress.com/2013/02/22/mobile-template-mixin-for-django-class-based-views/)
 
 ## USAGE
